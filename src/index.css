@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=VT323&family=Comic+Neue:wght@400;700&family=JetBrains+Mono:wght@400;700&family=Playfair+Display:wght@400;700&family=Bungee&display=swap');
+
+@theme {
+  --font-segoe: "Segoe UI", "Inter", system-ui, sans-serif;
+  --font-retro: "Fixedsys", "VT323", "Courier New", monospace;
+  --font-comic: "Comic Neue", cursive;
+  --font-tech: "JetBrains Mono", monospace;
+  --font-elegant: "Playfair Display", serif;
+  --font-bold: "Bungee", cursive;
+}

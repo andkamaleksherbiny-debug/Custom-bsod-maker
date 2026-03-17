@@ -1,0 +1,5 @@
+{
+  "name": "bsod maker",
+  "description": "A fully customizable Blue Screen of Death (BSOD) simulator for pranks and testing UI layouts.",
+  "requestFramePermissions": []
+}
